@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EasyB2B.DataAccess\EasyB2B.DataAccess.csproj" />
+    <ProjectReference Include="..\EasyB2B.Models\EasyB2B.Models.csproj" />
+  </ItemGroup>
+
+</Project>
